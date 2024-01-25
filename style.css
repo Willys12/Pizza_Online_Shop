@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizzetu Shop -We sell the best pizza in the City</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./fontawesome-free-6.4.0-web/fontawesome-free-6.4.0-web/css/all.min.css">
+</head>
+
+<body>
+    <section id="banner">
+        <img src="./Logo/Logo.png" class="logo" alt="">
+        <div class="banner-text">
+            <h1>Pizza Dishes</h1>
+            <p>Eat to live, live for pizza</p>
+            <div class="banner-btn">
+                <a href="#"><span></span>Find Out</a>
+                <a href="#"><span></span>Read More</a>
+            </div>
+        </div>
+    </section>
+
+    <div id="sideNav">
+        <nav>
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">FEATURES</a></li>
+                <li><a href="#">MENU</a></li>
+                <li><a href="#">REVIEWS</a></li>
+                <li><a href="#">CONTACT US</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div id="menuBtn">
+        <img src="./files/Menu.png" id="menu">
+    </div>
+
+    <!-- Feature -->
+    <section id="feature">
+        <div class="title-text">
+            <P>FEATURES</P>
+            <h1>Why our Services</h1>
+        </div>
+        <div class="feature-box">
+            <div class="features">
+                <h1>Quality Pizza</h1>
+                <div class="features-desc">
+                    <div class="feature-icon"><i class="fa fa-check"></i></div>
+                    <div class="feature-text">
+                        <p>Our shop is known for offering some of the best prepared pizzas in town. In the recent
+                            rankings and findings, we have been rated at 4 out 5 by our esteemed customers.</p>
+                    </div>
+                </div>
+                <h1>Experienced staff</h1>
+                <div class="features-desc">
+                    <div class="feature-icon"><i class="fa fa-shield-halved"></i></div>
+                    <div class="feature-text">
+                        <p>Most of our employees have over 7 to 10 years in the field of food and beverage. You can be
+                            sure that visiting our shops across the country is the best decision for you since you'll
+                            get served by experienced professionals. </p>
+                    </div>
+                </div>
+                <h1>Fast Delivery Services</h1>
+                <div class="features-desc">
+                    <div class="feature-icon"><i class="fa fa-shipping-fast"></i></div>
+                    <div class="feature-text">
+                        <p>At Pizzetu shops, fast delivery services have been another consideration we stress on because
+                            we need our customers to receive fresh foods.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="features-img">
+                <img src="./files/BBQ_Chicken_Pizza.jpg" alt="">
+            </div>
+        </div>
+    </section>
+
+    <!-- Menu -->
+    <section id="Menu">
+        <div class="title-text">
+            <P>MENU</P>
+            <h1>We cook the best!</h1>
+        </div>
+        <div class="menu-box">
+            <div class="single-menu">
+                <img src="./files/Supreme_pizza.jpg.webp">
+                <div class="overlay"></div>
+                <div class="menu-desc">
+                    <h3>Supreme Pizza</h3>
+                    <hr>
+                    <p>Traditionally topped with pepperoni, sausage, Meatballs, Mushrooms, Green bell peppers & Onions.
+                    </p>
+                </div>
+            </div>
+            <div class="single-menu">
+                <img src="./files/Margherita_Pizza.jpg.webp">
+                <div class="overlay"></div>
+                <div class="menu-desc">
+                    <h3>Margherita Pizza</h3>
+                    <hr>
+                    <p>Traditionally topped with Tomato sauce, Fresh Mozzarella cheese, Basil leaves and sometimes
+                        grated Parmesan cheese.
+                    </p>
+                </div>
+            </div>
+            <div class="single-menu">
+                <img src="./files/Meat_Pizza.jpg.webp">
+                <div class="overlay"></div>
+                <div class="menu-desc">
+                    <h3>Meat Pizza</h3>
+  
